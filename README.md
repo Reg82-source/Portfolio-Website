@@ -38,9 +38,8 @@ This very website was built with HTML and CSS to showcase my learning progress a
 
 - 📧 Email: [reginamathei32@gmail.com](mailto:reginamathei32@gmail.com)  
 - 🐙 GitHub: [github.com/Reg82-source](https://github.com/Reg82-source)  
-- 💼 LinkedIn: [linkedin.com/in/reginamathei](https://linkedin.com/in/reginamathei)  
-- 📸 Instagram: [@_genesis_reans](https://instagram.com/_genesis_reans)  
-- 🏥 Facebook (Clinic): [Central Physio Clinic](https://www.facebook.com/CentralPhysiotherapyClinicAndOrthoticsHub)
+- 💼 LinkedIn: [linkedin.com/in/reginamathei](https://www.linkedin.com/in/regina-mathei-690b65292)  
+- 📸 Instagram: [@_genesis_reans](https://www.instagram.com/_genesis_reans?igsh=NDZ6Z2xn0XJkNnV5)  
 
 ## 🛠 Tech Stack
 
