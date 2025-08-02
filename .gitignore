@@ -1,0 +1,10 @@
+# Ignore folders you don’t want Git to track
+.vscode/
+_pycache_/
+node_modules/
+
+# Ignore system/temp files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
